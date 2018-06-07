@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/Simbadeveloper/hello-world-flask.io.svg?branch=master)](https://travis-ci.org/Simbadeveloper/hello-world-flask.io)
+
 # hello-world-flask.io
 hello world flask
 
