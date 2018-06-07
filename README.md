@@ -1,6 +1,8 @@
 # hello-world-flask.io
 hello world flask
 
+https://travis-ci.org/Simbadeveloper/hello-world-flask.io.svg?branch=master
+
 # setting up flask
  from the command line type pip install flask
  
