@@ -13,15 +13,17 @@ hello world flask
  inside your directory create *app.py*
  
  # open your app.py in the text editor
+ 
+ type the following in your app.py then save <br >
  from flask import Flask,
 
 app = Flask(__name__)
 
-@app.route("/")
+@app.route("/")<br >
 
-def main():
-	return "Hello world!"
-if __name__ == '__main__':
+def main():<br >
+	return "Hello world!"<br >
+if __name__ == '__main__':<br >
     app.run()
     
 # Run your app
